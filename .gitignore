@@ -1,0 +1,14 @@
+.env
+.venv
+__pycache__
+.DS_Store
+.vscode
+.idea
+.pytest_cache
+.ruff_cache
+.mypy_cache
+.coverage
+dist
+Logs
+venv
+langchain_agent.egg-info
